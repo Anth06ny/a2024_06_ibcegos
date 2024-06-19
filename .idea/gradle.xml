@@ -10,6 +10,38 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../a2024_06_ib/EurekaServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../a2024_06_ib/EurekaServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../a2024_06_ib/GatewayService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../a2024_06_ib/GatewayService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../a2024_06_ib/MoviesService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../a2024_06_ib/MoviesService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../a2024_06_ib/TestMicroService2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../a2024_06_ib/TestMicroService2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

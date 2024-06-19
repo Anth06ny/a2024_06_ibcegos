@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunMS" type="CompoundRunConfigurationType">
+    <toRun name="zipkin-server-3.4.0-exec.jar" type="JarApplication" />
+    <toRun name="A202406IbApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" />
+    <toRun name="MoviesServiceApplication8081" type="SpringBootApplicationConfigurationType" />
+    <toRun name="MoviesServiceApplication8082" type="SpringBootApplicationConfigurationType" />
+    <toRun name="TestMicroService2Application" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
